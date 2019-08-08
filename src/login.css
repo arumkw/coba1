@@ -1,0 +1,35 @@
+.login{
+    background-color: #c8dad3;
+    display: block;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+.login-center{
+    display: flex;
+    margin: 6% 15% 5% 22%;
+}
+
+.login-bottom{
+    display: flex;
+    margin: 6% 27% 5% 35%;
+    justify-items: 
+}
+
+img {
+    width: 50%;
+}
+
+#form-name-app {
+    font-style: normal;
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    width: 100%;
+    font-size:32px;
+    margin-top: 30px;
+}
+
+#button00 {
+    text-decoration: none;
+}
